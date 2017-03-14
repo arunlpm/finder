@@ -1,0 +1,7 @@
+{
+    "ice-gear.com": {
+        "urlToCrawl": "https://www.ice-gear.com/pages/faqs",
+        "selector"	: "#MainContent .rte",
+        "regex": "order\\svia\\s(.*)\\,"
+    }
+}

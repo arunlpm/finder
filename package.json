@@ -1,0 +1,13 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "finder.js",
+  "author": "Arun",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "merge-descriptors": "^1.0.1",
+    "request": "latest"
+  }
+}
